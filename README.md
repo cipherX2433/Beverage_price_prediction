@@ -262,17 +262,9 @@ Beverage-Price-Prediction/
 
 ## 📸 Project Screenshots
 
-### MLflow Experiment Tracking
-
-(Add Screenshot Here)
-
 ### Model Comparison
 
-(Add Screenshot Here)
-
-### Feature Engineering Workflow
-
-(Add Screenshot Here)
+[Model Comparison](ssc.png)
 
 
 ### MLflow / DagsHub Tracking
